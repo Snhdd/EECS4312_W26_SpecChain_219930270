@@ -1,0 +1,69 @@
+{
+  "groups": [
+    {
+      "group_id": "H1",
+      "theme": "Emotional support, anxiety relief, and mental health recovery",
+      "review_ids": [1, 2, 3, 5, 7, 8, 9, 10, 12, 15, 18, 19, 21, 22, 24],
+      "example_reviews": [
+        "I wish that everyone who hasn't tried this app would!!!",
+        "helpful app where i can talk to for support",
+        "very kind supportive and enlightening thank you wysa xxx",
+        "it really helped me turn my negative thoughts into a positive mindset",
+        "This app has been really helpful towards my mental health recovery"
+      ],
+      "notes": "Refined the automated emotional-support cluster by removing less relevant wellness-tool and pricing examples and keeping reviews focused on distress relief, emotional reassurance, and mental health recovery."
+    },
+    {
+      "group_id": "H2",
+      "theme": "CBT exercises, mindfulness tools, guided meditation, and self-improvement features",
+      "review_ids": [6, 14, 20, 31, 34, 50, 52, 75, 77, 88, 92, 94, 99, 140, 153],
+      "example_reviews": [
+        "Love Wysa. The steps are invaluable.",
+        "I love that this utilizes CBT techniques that help break negative thought cycles",
+        "good really liked mindful breathing relaxation tool helped helpful",
+        "informative, great tools and awesome skills to use",
+        "helpful talking also giving guided meditation breathing exercise"
+      ],
+      "notes": "Kept the automated grouping structure but refined the theme to focus on concrete therapeutic tools such as CBT, breathing, meditation, and guided self-help exercises."
+    },
+    {
+      "group_id": "H3",
+      "theme": "Chatbot intelligence, response relevance, personalization, and conversation memory",
+      "review_ids": [4, 11, 17, 22, 23, 39, 46, 139, 255, 334, 559, 704, 728, 741, 789],
+      "example_reviews": [
+        "Tried for about half an hour. Would ask questions then disregard all my responses",
+        "it's a really good app but it would be better if it remembers every conversation.",
+        "Slow and unoptimized, responses can feel robotic and not relevant to what was said.",
+        "Please update this AI so that it can speak other languages besides English",
+        "gives completely irrelevant answer thought input"
+      ],
+      "notes": "Refined the automated chatbot-quality group by emphasizing response relevance, memory, and personalization issues while removing reviews that were primarily about pricing or general emotional support."
+    },
+    {
+      "group_id": "H4",
+      "theme": "Accessibility, multilingual support, and inclusive user experience needs",
+      "review_ids": [13, 23, 77, 159, 186, 286, 319, 388, 488, 556, 784, 827],
+      "example_reviews": [
+        "very easy to use and i like the way it responds to anything you ask",
+        "Please update this AI so that it can speak other languages besides English, such as Indonesian.",
+        "psyhelp al mindfulness support truly transformed way approach mental wellness app intuitive easy navigate",
+        "It will be a great help if we can chat in English as well as in Sinhala",
+        "This app has been very helpful in keeping me focused in the present moment"
+      ],
+      "notes": "Revised the automated accessibility grouping to better reflect multilingual support, simple navigation, and inclusive usability needs, including accessibility-related expectations."
+    },
+    {
+      "group_id": "H5",
+      "theme": "Subscription, premium features, and pricing concerns",
+      "review_ids": [62, 81, 103, 194, 234, 243, 245, 254, 261, 375, 444, 581, 736, 742, 803],
+      "example_reviews": [
+        "do not install this app if you are searching for something free because this is paid.",
+        "charged eighty five canceled trial pleased quality app",
+        "started free trial got scammed gave info download",
+        "subscription based app download wish pay otherwise pointless",
+        "gotta love free app immediately asks payment"
+      ],
+      "notes": "Refined the automated pricing group to focus specifically on subscription cost, paywalls, trial confusion, and value concerns while excluding reviews that were mainly about chatbot quality."
+    }
+  ]
+}

@@ -1,0 +1,219 @@
+{
+  "tests": [
+    {
+      "test_id": "T1",
+      "requirement_id": "FR1",
+      "scenario": "Empathetic response to distress message",
+      "steps": [
+        "Open the chat interface",
+        "Enter a message expressing anxiety or emotional distress",
+        "Submit the message"
+      ],
+      "expected_result": "The system returns an empathetic and supportive response within 2 seconds."
+    },
+    {
+      "test_id": "T2",
+      "requirement_id": "FR1",
+      "scenario": "Safe response to negative emotional input",
+      "steps": [
+        "Open the chat interface",
+        "Enter a message expressing hopelessness or negative thoughts",
+        "Submit the message"
+      ],
+      "expected_result": "The system provides a supportive response that does not worsen the user's emotional state."
+    },
+    {
+      "test_id": "T3",
+      "requirement_id": "FR2",
+      "scenario": "Access guided CBT exercise",
+      "steps": [
+        "Open the wellness tools section",
+        "Select the CBT support feature"
+      ],
+      "expected_result": "At least one guided CBT exercise is displayed with actionable steps."
+    },
+    {
+      "test_id": "T4",
+      "requirement_id": "FR2",
+      "scenario": "Complete CBT exercise flow",
+      "steps": [
+        "Open the CBT support feature",
+        "Start a guided CBT exercise",
+        "Follow the steps until completion"
+      ],
+      "expected_result": "The CBT exercise is presented clearly from start to finish."
+    },
+    {
+      "test_id": "T5",
+      "requirement_id": "FR3",
+      "scenario": "Open breathing exercise from main interface",
+      "steps": [
+        "Launch the application",
+        "Navigate to the wellness tools area",
+        "Select a breathing exercise"
+      ],
+      "expected_result": "The breathing exercise starts successfully."
+    },
+    {
+      "test_id": "T6",
+      "requirement_id": "FR3",
+      "scenario": "Open meditation exercise from main interface",
+      "steps": [
+        "Launch the application",
+        "Navigate to the wellness tools area",
+        "Select a meditation exercise"
+      ],
+      "expected_result": "The meditation exercise starts successfully and remains accessible."
+    },
+    {
+      "test_id": "T7",
+      "requirement_id": "FR4",
+      "scenario": "Conversation memory across sessions",
+      "steps": [
+        "Log in as a returning user",
+        "Open a previous conversation",
+        "Continue the conversation with a follow-up message"
+      ],
+      "expected_result": "The system references relevant context from the earlier conversation."
+    },
+    {
+      "test_id": "T8",
+      "requirement_id": "FR4",
+      "scenario": "Returning user resumes prior topic",
+      "steps": [
+        "Complete a conversation about stress management",
+        "Close the application",
+        "Reopen the application later",
+        "Ask the chatbot a follow-up question on the same topic"
+      ],
+      "expected_result": "The chatbot maintains continuity by recognizing the previous topic."
+    },
+    {
+      "test_id": "T9",
+      "requirement_id": "FR5",
+      "scenario": "Different emotional prompts receive different responses",
+      "steps": [
+        "Open the chat interface",
+        "Submit a message about anxiety",
+        "Submit a separate message about loneliness"
+      ],
+      "expected_result": "The system generates context-specific responses that are not duplicated."
+    },
+    {
+      "test_id": "T10",
+      "requirement_id": "FR5",
+      "scenario": "Relevance of chatbot response",
+      "steps": [
+        "Open the chat interface",
+        "Enter a specific emotional concern",
+        "Review the system response"
+      ],
+      "expected_result": "The response is relevant to the user's input and does not appear scripted or generic."
+    },
+    {
+      "test_id": "T11",
+      "requirement_id": "FR6",
+      "scenario": "Switch interface language",
+      "steps": [
+        "Open application settings",
+        "Select a supported non-English language",
+        "Return to the main interface"
+      ],
+      "expected_result": "The interface labels appear in the selected language."
+    },
+    {
+      "test_id": "T12",
+      "requirement_id": "FR6",
+      "scenario": "Chatbot response in selected language",
+      "steps": [
+        "Set the application to a supported non-English language",
+        "Open the chat interface",
+        "Send a message"
+      ],
+      "expected_result": "The chatbot responds in the selected language."
+    },
+    {
+      "test_id": "T13",
+      "requirement_id": "FR7",
+      "scenario": "Screen-reader compatibility for main actions",
+      "steps": [
+        "Enable a screen-reader tool",
+        "Launch the application",
+        "Navigate through major actions in the interface"
+      ],
+      "expected_result": "Major actions are readable and accessible through the screen-reader."
+    },
+    {
+      "test_id": "T14",
+      "requirement_id": "FR7",
+      "scenario": "Accessible navigation through key wellness features",
+      "steps": [
+        "Enable assistive technology",
+        "Open the application",
+        "Navigate to the chat and wellness tools sections"
+      ],
+      "expected_result": "The user can navigate to major features without accessibility barriers."
+    },
+    {
+      "test_id": "T15",
+      "requirement_id": "FR8",
+      "scenario": "View premium pricing details",
+      "steps": [
+        "Open the premium or subscription screen",
+        "Review the subscription information"
+      ],
+      "expected_result": "Pricing and premium feature benefits are clearly displayed."
+    },
+    {
+      "test_id": "T16",
+      "requirement_id": "FR8",
+      "scenario": "Compare subscription plans",
+      "steps": [
+        "Open the subscription screen",
+        "View all available plan options"
+      ],
+      "expected_result": "Each subscription option shows its cost and included features clearly."
+    },
+    {
+      "test_id": "T17",
+      "requirement_id": "FR9",
+      "scenario": "Start free trial with billing details shown",
+      "steps": [
+        "Open the premium screen",
+        "Start a free trial",
+        "Review the trial information"
+      ],
+      "expected_result": "The cancellation date and billing start date are clearly visible."
+    },
+    {
+      "test_id": "T18",
+      "requirement_id": "FR9",
+      "scenario": "Confirm trial cancellation information",
+      "steps": [
+        "Open the free trial details page",
+        "Review cancellation instructions"
+      ],
+      "expected_result": "Clear cancellation instructions are displayed before billing begins."
+    },
+    {
+      "test_id": "T19",
+      "requirement_id": "FR10",
+      "scenario": "Free-tier access to emotional support chat",
+      "steps": [
+        "Log in as a non-premium user",
+        "Open the support chat feature"
+      ],
+      "expected_result": "The emotional support chat feature is accessible without premium access."
+    },
+    {
+      "test_id": "T20",
+      "requirement_id": "FR10",
+      "scenario": "Free-tier access to at least one wellness exercise",
+      "steps": [
+        "Log in as a non-premium user",
+        "Navigate to the wellness tools section"
+      ],
+      "expected_result": "At least one wellness exercise is accessible without premium access."
+    }
+  ]
+}

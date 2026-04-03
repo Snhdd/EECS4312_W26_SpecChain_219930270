@@ -1,0 +1,56 @@
+{
+  "tests": [
+    {
+      "test_id": "HT1",
+      "requirement_id": "HFR1",
+      "scenario": "Empathetic distress response",
+      "steps": [
+        "Open chat interface",
+        "Enter distress message",
+        "Submit prompt"
+      ],
+      "expected_result": "Empathetic response returned within 2 seconds"
+    },
+    {
+      "test_id": "HT2",
+      "requirement_id": "HFR2",
+      "scenario": "Load CBT tool",
+      "steps": [
+        "Open wellness tools",
+        "Select CBT exercise"
+      ],
+      "expected_result": "Guided CBT tool loads successfully"
+    },
+    {
+      "test_id": "HT3",
+      "requirement_id": "HFR3",
+      "scenario": "Conversation memory",
+      "steps": [
+        "Start conversation",
+        "Return later",
+        "Ask follow-up question"
+      ],
+      "expected_result": "Prior context is referenced"
+    },
+    {
+      "test_id": "HT4",
+      "requirement_id": "HFR4",
+      "scenario": "Language accessibility",
+      "steps": [
+        "Switch language",
+        "Navigate main interface"
+      ],
+      "expected_result": "Interface remains fully accessible"
+    },
+    {
+      "test_id": "HT5",
+      "requirement_id": "HFR5",
+      "scenario": "Subscription transparency",
+      "steps": [
+        "Open premium page",
+        "View billing options"
+      ],
+      "expected_result": "Pricing and billing information clearly displayed"
+    }
+  ]
+}

@@ -1,0 +1,135 @@
+{
+  "personas": [
+    {
+      "id": "P1",
+      "name": "Emotionally Overwhelmed Support Seeker",
+      "description": "A user experiencing anxiety, depression, emotional distress, or mental health recovery challenges who uses Wysa for nonjudgmental support, coping guidance, and immediate emotional relief.",
+      "derived_from_group": "G1",
+      "goals": [
+        "Receive immediate emotional support during difficult moments",
+        "Reduce anxiety, stress, or negative thinking",
+        "Feel heard without fear of judgment",
+        "Use the app as a calming and supportive mental health tool"
+      ],
+      "pain_points": [
+        "Struggles with anxiety, depression, or emotional overload",
+        "Needs support during moments of intense distress or hopelessness",
+        "May feel isolated or unable to speak openly with others",
+        "Needs supportive responses that feel safe and reassuring"
+      ],
+      "context": [
+        "Using the app during emotionally difficult periods",
+        "Seeking help with stress, depression, anxiety, or suicidal thoughts",
+        "Turning to the app for comfort, reassurance, and emotional grounding"
+      ],
+      "constraints": [
+        "Support must feel empathetic and nonjudgmental",
+        "Responses must be available quickly when the user is distressed",
+        "The app must avoid responses that worsen emotional state"
+      ],
+      "evidence_reviews": [2, 3, 9, 10, 12, 16, 18, 20, 44, 47, 50, 51]
+    },
+    {
+      "id": "P2",
+      "name": "Self-Guided Wellness Improver",
+      "description": "A user actively working on personal growth and emotional wellness through CBT exercises, meditation, breathing techniques, and guided self-help tools.",
+      "derived_from_group": "G2",
+      "goals": [
+        "Use CBT tools to reframe negative thoughts",
+        "Practice guided meditation and breathing exercises",
+        "Develop healthy coping strategies",
+        "Improve daily mental wellness habits"
+      ],
+      "pain_points": [
+        "Needs structured self-help tools",
+        "Struggles with stress and emotional regulation",
+        "Requires guided exercises that are easy to follow"
+      ],
+      "context": [
+        "Uses the app regularly for mindfulness practice",
+        "Accesses guided exercises during stressful situations",
+        "Prefers self-paced therapeutic tools"
+      ],
+      "constraints": [
+        "Exercises must be clear and actionable",
+        "Meditation and CBT tools must be easy to access"
+      ],
+      "evidence_reviews": [2, 20, 57, 77, 94, 608, 577, 692, 751, 821]
+    },
+    {
+      "id": "P3",
+      "name": "Personalized AI Conversation User",
+      "description": "A user who expects intelligent, relevant, and personalized AI conversations with memory across sessions.",
+      "derived_from_group": "G3",
+      "goals": [
+        "Receive relevant and intelligent responses",
+        "Continue conversations across multiple sessions",
+        "Feel understood through personalized interactions"
+      ],
+      "pain_points": [
+        "Responses feel repetitive or robotic",
+        "The chatbot forgets previous conversations",
+        "Irrelevant suggestions increase frustration"
+      ],
+      "context": [
+        "Uses the chatbot frequently for emotional conversations",
+        "Expects natural language interaction"
+      ],
+      "constraints": [
+        "System must maintain conversational memory",
+        "Responses must remain contextually relevant"
+      ],
+      "evidence_reviews": [17, 22, 23, 39, 46, 139, 255, 334, 559, 704]
+    },
+    {
+      "id": "P4",
+      "name": "Inclusive and Accessibility-Focused User",
+      "description": "A user who values accessibility features, multilingual support, and an inclusive user experience that accommodates different needs.",
+      "derived_from_group": "G4",
+      "goals": [
+        "Use the app comfortably regardless of language",
+        "Access inclusive and easy-to-navigate features",
+        "Use accessibility support tools when needed"
+      ],
+      "pain_points": [
+        "Limited language options",
+        "Accessibility barriers",
+        "Navigation challenges"
+      ],
+      "context": [
+        "May rely on assistive technologies",
+        "May prefer non-English language support"
+      ],
+      "constraints": [
+        "App must support accessible UI design",
+        "Language options should be inclusive"
+      ],
+      "evidence_reviews": [13, 23, 77, 159, 186, 286, 388, 488, 556, 827]
+    },
+    {
+      "id": "P5",
+      "name": "Cost-Conscious Premium User",
+      "description": "A user concerned with subscription cost, premium feature access, and perceived value of paid services.",
+      "derived_from_group": "G5",
+      "goals": [
+        "Access useful features at reasonable cost",
+        "Understand premium benefits clearly",
+        "Avoid unexpected charges"
+      ],
+      "pain_points": [
+        "Subscription feels expensive",
+        "Important features locked behind paywall",
+        "Trial or payment confusion"
+      ],
+      "context": [
+        "Comparing free and premium plans",
+        "Evaluating whether the subscription is worth paying for"
+      ],
+      "constraints": [
+        "Pricing must be transparent",
+        "Premium benefits should justify cost"
+      ],
+      "evidence_reviews": [62, 194, 234, 243, 245, 254, 261, 375, 444, 581, 736]
+    }
+  ]
+}

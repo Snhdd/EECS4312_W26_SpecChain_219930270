@@ -1,0 +1,4 @@
+{
+  "method": "keyword-based automatic grouping and persona generation",
+  "note": "This automated version uses rule-based keyword classification to approximate automated grouping before hybrid refinement."
+}

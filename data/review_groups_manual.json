@@ -1,0 +1,85 @@
+{
+  "groups": [
+    {
+      "group_id": "G1",
+      "theme": "Emotional support, anxiety relief, and mental health recovery",
+      "review_ids": [2,3,9,10,12,16,18,20,44,47,50,51],
+      "example_reviews": [
+        
+        "helpful app talk support",
+        "kind supportive enlightening thank wysa xxx",
+        "really helped turn negative thought positive mindset",
+        "app really helpful towards mental health recovery",
+        "best app depressed confused people like",
+        "helped suicidal thought",
+        "helpful especially cannot pinpoint cause anxiety stress let open slowly forcefully talk like therapist plan give meditation audio",
+        "love utilizes cbt technique help break negative thought cycle relieve anxiety heavy emotion help reset actual video movement meditation thought prompt solution focused",
+        "slowly recovering mental breakdown app really helpful recommending feeling",
+        "app great good substitute anyone talk good psychological tip emotion pretty great app",
+        "good really liked mindful breathing relaxation tool helped helpful",
+        "health conscious enjoy application like"
+
+      ]
+    },
+    {
+      "group_id": "G2",
+      "theme": "CBT exercises, mindfulness tools, guided meditation, and self-improvement features",
+      "review_ids": [2,20,57,77,94,608,577,608,692,751,821],
+      "example_reviews": [
+        "helpful app talk support",
+        "love utilizes cbt technique help break negative thought cycle relieve anxiety heavy emotion help reset actual video movement meditation thought prompt solution focused",
+        "edit used love app subscribed today meditation work simply push play mediation app suck instead sleeping ive spent thirty min trying get work im awake love app helpful anxiety depression guide reframing thought effective way process look thing realistically instead catastrophizing happened",
+        "psyhelp al mindfulness support truly transformed way approach mental wellness app intuitive easy navigate offer wide range guided mindfulness exercise meditation help reduce stress improve focus love al powered support feel personalized like mindfulness coach available anytime need guidance encouragement daily prompt check in subtle effective keeping mindful grounded throughout",
+        "helpful talking also giving guided meditation breathing exercise sometimes wish talk robot mode overall great venting space",
+        "stress already meditate wanted reexamine thinking pattern relax starting free version relaxation exercise helpful let talk effective understanding first went setting turned daily habit reframing thought cbt got useful conversation bedtime rain noise good",
+        "every time used made feel worse hold focus minute start gibbering something completely unrelated wanted talk even make stay topic advice offer best basic cbt usually feel like listening saying make angry frustrated use getting feel angry quite difficult",
+        "stress already meditate wanted reexamine thinking pattern relax starting free version relaxation exercise helpful let talk effective understanding first went setting turned daily habit reframing thought cbt got useful conversation bedtime rain noise good",
+        "app gaslight let express proper manner even couple swear word become dismissive situation also mentally abuse people happen autism cbt therapy compatible autism treatment highly recommend app autism",
+        "two thousand twenty four update app longer understands type sure changed longer find useful cbt process gone think difficult find response red flag move away relationship congratulated instead questioned",
+        "excellent cbt resource"
+
+      ]
+    },
+    {
+      "group_id": "G3",
+      "theme":  "Chatbot intelligence, response relevance, personalization, and conversation memory",
+      "review_ids": [17,22,23,39,46,139,255,334,559,704],
+      "example_reviews": [
+        "really good app would better remembers every conversation",
+        "slow unoptimized response feel robotic relevant said",
+        "please update ai speak language besides english indonesian",
+        "kept glitching saying check erasing long conversation start remember previous coversations added stress end instead helping manage",
+        "app slow frustrating use",
+        "chatbot joke extremely slow keep repeating stuff since ai app youper got messed badly mean less money spent apps guess would anyone use apps slow untrained ai chatgpt already exists let apps way",
+        "wysa ai seems dated weak estimate emotion suggest exercise library relieve stress anxiety cannot truly comprehend worry problem mainstream llm set therapeutic mode become far potent effective wysa need upgrade ai risk becoming irrelevant within year two",
+        "provides basic scripted message regardless write listen respond intelligently give basic really slow message meant apply whatever say general assuming write expects absolute waste time least basic free version",
+        "give completely irrelevant answer thought input",
+        "absolutely adored app younger struggling love able come back whenever struggling two thousand twenty four update loved app use bot getting slow sense understand thing well anymore"
+
+      ]
+    },
+    {
+      "group_id": "G4",
+      "theme":  "Accessibility, multilingual support, and inclusive user experience needs",
+      "review_ids": [13,23,77,159,186,286,388,488,556,827],
+      "example_reviews": [
+        "easy use like way responds anything ask good sounding board free",
+        "please update ai speak language besides english indonesian",
+        "psyhelp al mindfulness support truly transformed way approach mental wellness app intuitive easy navigate offer wide range guided mindfulness exercise meditation help reduce stress improve focus love al powered support feel personalized like mindfulness coach available anytime need guidance encouragement daily prompt check in subtle effective keeping mindful grounded throughout",
+        "critical review state app listen act trigger word one minute frustrated aggregated installed uninstalling",
+        "started using far good could use little development ai language model otherwise highly recommended tool meditation exercise quite helpful useful way journaling thought keeping track mood","great help chat english well sinhala random language",
+        "free feature great helpful unlocking depth feature requires subscription easy work cute ai",
+        "really positive app easy use",
+        "impressed exercise simple helpful dialogue full glitch bug ai simply failing understand written apparently capable churning stock response much better apps option",
+        "app helpful keeping focused present moment well helpful cbt skill therapy session also bonus app accessible visually impaired talkback",
+
+      ]
+    },
+    {
+      "group_id": "G5",
+      "theme": "Subscription, premium access, and pricing concerns",
+      "review_ids": [],
+      "example_reviews": []
+    }
+  ]
+}

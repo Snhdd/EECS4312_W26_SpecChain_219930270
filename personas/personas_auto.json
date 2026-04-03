@@ -1,0 +1,172 @@
+{
+  "personas": [
+    {
+      "id": "P1",
+      "name": "Emotionally Distressed Support User",
+      "description": "A user seeking immediate emotional support, anxiety relief, and mental health reassurance through the app.",
+      "derived_from_group": "G1",
+      "goals": [
+        "Get emotional support quickly",
+        "Reduce anxiety and negative thinking",
+        "Feel heard without judgment"
+      ],
+      "pain_points": [
+        "Emotional distress",
+        "Anxiety and depression",
+        "Need for safe and supportive responses"
+      ],
+      "context": [
+        "Uses the app during stressful or emotionally difficult moments"
+      ],
+      "constraints": [
+        "Responses must be empathetic",
+        "Support must be available quickly"
+      ],
+      "evidence_reviews": [
+        1,
+        2,
+        3,
+        5,
+        7,
+        8,
+        9,
+        10,
+        12,
+        13
+      ]
+    },
+    {
+      "id": "P2",
+      "name": "Guided Self-Help User",
+      "description": "A user who wants structured wellness support through CBT, meditation, mindfulness, and guided exercises.",
+      "derived_from_group": "G2",
+      "goals": [
+        "Use CBT tools",
+        "Practice mindfulness",
+        "Build healthy coping habits"
+      ],
+      "pain_points": [
+        "Needs guided self-help structure",
+        "Needs clear exercises"
+      ],
+      "context": [
+        "Uses the app regularly for personal improvement"
+      ],
+      "constraints": [
+        "Exercises must be easy to access",
+        "Instructions must be clear"
+      ],
+      "evidence_reviews": [
+        6,
+        14,
+        20,
+        31,
+        34,
+        50,
+        52,
+        75,
+        77,
+        88
+      ]
+    },
+    {
+      "id": "P3",
+      "name": "Personalized Conversation User",
+      "description": "A user expecting smart, relevant, and personalized AI conversations that remember prior context.",
+      "derived_from_group": "G3",
+      "goals": [
+        "Get relevant responses",
+        "Continue conversations over time",
+        "Feel understood by the chatbot"
+      ],
+      "pain_points": [
+        "Repetitive replies",
+        "Missing conversation memory",
+        "Irrelevant responses"
+      ],
+      "context": [
+        "Uses the chatbot often for support and reflection"
+      ],
+      "constraints": [
+        "The system must retain context",
+        "Replies must feel personalized"
+      ],
+      "evidence_reviews": [
+        4,
+        11,
+        17,
+        22,
+        30,
+        33,
+        37,
+        39,
+        42,
+        43
+      ]
+    },
+    {
+      "id": "P4",
+      "name": "Inclusive Access User",
+      "description": "A user who needs inclusive design, language support, and accessible app interaction.",
+      "derived_from_group": "G4",
+      "goals": [
+        "Use the app in a preferred language",
+        "Access features easily",
+        "Benefit from accessibility support"
+      ],
+      "pain_points": [
+        "Limited language support",
+        "Accessibility barriers"
+      ],
+      "context": [
+        "May use assistive tools or prefer non-English interaction"
+      ],
+      "constraints": [
+        "The interface must support accessibility",
+        "Language options should be inclusive"
+      ],
+      "evidence_reviews": [
+        23,
+        286,
+        319,
+        784,
+        827
+      ]
+    },
+    {
+      "id": "P5",
+      "name": "Price-Aware Premium Evaluator",
+      "description": "A user evaluating whether premium plans provide enough value for the subscription cost.",
+      "derived_from_group": "G5",
+      "goals": [
+        "Understand subscription value",
+        "Avoid surprise charges",
+        "Compare free and premium features"
+      ],
+      "pain_points": [
+        "High cost",
+        "Feature paywalls",
+        "Billing confusion"
+      ],
+      "context": [
+        "Deciding whether premium access is worth purchasing"
+      ],
+      "constraints": [
+        "Pricing must be transparent",
+        "Paid features must justify cost"
+      ],
+      "evidence_reviews": [
+        62,
+        67,
+        74,
+        124,
+        194,
+        234,
+        243,
+        261,
+        320,
+        377
+      ]
+    }
+  ]
+}

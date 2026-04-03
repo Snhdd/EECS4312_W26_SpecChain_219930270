@@ -1,0 +1,136 @@
+{
+  "personas": [
+    {
+      "id": "HP1",
+      "name": "Emotionally Vulnerable Support Seeker",
+      "description": "A user experiencing anxiety, depression, emotional distress, or mental health recovery challenges who relies on Wysa for safe, immediate, and empathetic support.",
+      "derived_from_group": "H1",
+      "goals": [
+        "Receive immediate emotional reassurance",
+        "Reduce anxiety and negative thoughts",
+        "Feel supported without judgment",
+        "Use the app during emotionally difficult moments"
+      ],
+      "pain_points": [
+        "Emotional distress and anxiety",
+        "Need for quick supportive responses",
+        "Fear of feeling unheard",
+        "Mental health recovery challenges"
+      ],
+      "context": [
+        "Uses the app during stressful moments",
+        "Often seeks support late at night or during emotional crises",
+        "May use the app instead of immediately reaching a human therapist"
+      ],
+      "constraints": [
+        "Responses must be empathetic",
+        "Support must be available quickly",
+        "Replies must not worsen emotional state"
+      ],
+      "evidence_reviews": [1, 2, 3, 5, 7]
+    },
+    {
+      "id": "HP2",
+      "name": "Self-Guided Wellness Improver",
+      "description": "A user focused on self-improvement through CBT exercises, mindfulness, breathing exercises, and guided meditation tools.",
+      "derived_from_group": "H2",
+      "goals": [
+        "Use CBT tools regularly",
+        "Practice breathing and mindfulness",
+        "Improve mental resilience",
+        "Build healthy coping habits"
+      ],
+      "pain_points": [
+        "Needs structured self-help tools",
+        "Wants actionable exercises",
+        "Needs guided wellness support"
+      ],
+      "context": [
+        "Uses app during wellness routines",
+        "Often accesses CBT and meditation features daily"
+      ],
+      "constraints": [
+        "Exercises must be easy to access",
+        "Guided tools must remain functional",
+        "Instructions must be clear"
+      ],
+      "evidence_reviews": [6, 14, 20, 31, 34]
+    },
+    {
+      "id": "HP3",
+      "name": "Personalized Conversation User",
+      "description": "A user expecting intelligent, context-aware, and personalized chatbot interactions with memory and relevant responses.",
+      "derived_from_group": "H3",
+      "goals": [
+        "Receive relevant responses",
+        "Continue prior conversations",
+        "Feel understood by the chatbot"
+      ],
+      "pain_points": [
+        "Repetitive responses",
+        "Poor memory of prior context",
+        "Irrelevant or robotic answers"
+      ],
+      "context": [
+        "Uses the app repeatedly over time",
+        "Expects the AI to remember prior interactions"
+      ],
+      "constraints": [
+        "Responses must be context-aware",
+        "Conversation memory must persist",
+        "Replies must remain relevant"
+      ],
+      "evidence_reviews": [4, 11, 17, 22, 23]
+    },
+    {
+      "id": "HP4",
+      "name": "Inclusive Access User",
+      "description": "A user requiring multilingual support, accessible design, and easy navigation across different languages and ability levels.",
+      "derived_from_group": "H4",
+      "goals": [
+        "Use the app in preferred language",
+        "Access features easily",
+        "Benefit from inclusive design"
+      ],
+      "pain_points": [
+        "Language barriers",
+        "Accessibility limitations",
+        "Navigation complexity"
+      ],
+      "context": [
+        "May use screen readers or assistive tools",
+        "May not be a native English speaker"
+      ],
+      "constraints": [
+        "UI must support accessibility",
+        "Language support should be inclusive"
+      ],
+      "evidence_reviews": [13, 23, 77, 159, 186]
+    },
+    {
+      "id": "HP5",
+      "name": "Cost-Conscious Premium Evaluator",
+      "description": "A user concerned about subscription pricing, trial transparency, and the value of premium features.",
+      "derived_from_group": "H5",
+      "goals": [
+        "Understand subscription costs",
+        "Compare free vs premium features",
+        "Avoid unexpected billing"
+      ],
+      "pain_points": [
+        "Pricing confusion",
+        "Unexpected charges",
+        "Aggressive paywalls"
+      ],
+      "context": [
+        "Uses free trial before upgrading",
+        "Evaluates whether premium is worth the cost"
+      ],
+      "constraints": [
+        "Pricing must be transparent",
+        "Billing details must be visible"
+      ],
+      "evidence_reviews": [62, 81, 103, 194, 234]
+    }
+  ]
+}

@@ -1,0 +1,134 @@
+{
+  "groups": [
+    {
+      "group_id": "G1",
+      "theme": "Emotional support, anxiety relief, and mental health recovery",
+      "review_ids": [
+        1,
+        2,
+        3,
+        5,
+        7,
+        8,
+        9,
+        10,
+        12,
+        13,
+        15,
+        16,
+        18,
+        19,
+        21
+      ],
+      "example_reviews": [
+        "I wish that everyone who hasn't tried this app would!!! I truly wish everyone in the world would even for just one day .....it would without a doubt be something that would make anyone feel better than they felt before. thank you for creating this app and hopefully it reaches as many as anyone could hope for. Thank you for your time and passion it helped me today and I hope for many others it reaches them unexpectedly as it did for me. If manifesting is real please try and smile...",
+        "helpful app where I can talk to for support",
+        "very kind supportive and enlightening. thank you Wysa. xxx",
+        "The intake process for this service is frustratingly rigid and intrusive. It demands personal data that has nothing to do with clinical care and forced me to select from a list of confusing labels before I could even access help. I had to exit the app because there was no option to decline these unnecessary questions. If the goal is mental health support, stop creating barriers based on personal beliefs. It’s a major hurdle for those who just want straightforward medical assistance.",
+        "terrible text therapists"
+      ]
+    },
+    {
+      "group_id": "G2",
+      "theme": "CBT exercises, mindfulness tools, guided meditation, and self-improvement features",
+      "review_ids": [
+        6,
+        14,
+        20,
+        31,
+        34,
+        50,
+        52,
+        75,
+        77,
+        88,
+        92,
+        94,
+        99,
+        140,
+        153
+      ],
+      "example_reviews": [
+        "Love Wysa. The steps are invaluable. Most helpful is making a commitment to myself by outlining my day first thing in the morning with the help of Wysa's gentle and encouraging prompts, insightful questions and suggestions.",
+        "So far not so great. it's redundant and repetitive. It's just talk therapy, asking the same questions over and over. where are the tools that lead to a solution? the self care tab won't even load and when I opened the app this morning it slowed down every other function on my phone.",
+        "I love that this utilizes CBT techniques that help break negative thought cycles, relieve anxiety and other heavy emotions. it helps you reset with actual videos of movement and meditations, thought prompts that are solution focused.",
+        "I spent all of 5 minutes trying to talk to the chat bot, and whoever wrote/scripted this thing did a horrible job. It doesn't seem to process anything I ever say or respond appropriately, and has really terrible \"therapy speak\", as if someone who watches a lot of Mr. rogers made this app instead of anyone with any actual knowledge. If ThErEs OnE tHiNg I cOuLd ChaNgE it would be deleting this app. Which I definitely am.",
+        "informative, great tools and awesome skills to use"
+      ]
+    },
+    {
+      "group_id": "G3",
+      "theme": "Chatbot intelligence, response relevance, personalization, and conversation memory",
+      "review_ids": [
+        4,
+        11,
+        17,
+        22,
+        30,
+        33,
+        37,
+        39,
+        42,
+        43,
+        55,
+        81,
+        84,
+        87,
+        89
+      ],
+      "example_reviews": [
+        "Tried for about half and hour. Would ask questions then disregard all my responses by repeatedly asking me if I wanted to try a grounding or some other technique. I get blown off enough by the living. Don't need ignored by an app. lol. I actually wasn't expecting much from it, just wanted to give it a try out of curiosity. Now I know.",
+        "do not install this app if you are searching for something free because this is paid.",
+        "it's a really good app but it would be better if it remembers every conversation.",
+        "Slow and unoptimized, responses can feel robotic and not relevant to what was said.",
+        "it's helpful, even if just for gaining a different perspective, sometimes it's the little things that make a big difference."
+      ]
+    },
+    {
+      "group_id": "G4",
+      "theme": "Accessibility, multilingual support, and inclusive user experience needs",
+      "review_ids": [
+        23,
+        286,
+        319,
+        784,
+        827
+      ],
+      "example_reviews": [
+        "Please update this AI so that it can speak other languages ​​besides English, such as Indonesian.",
+        "It will be a great help if we can chat in English as well as in Sinhala or random language .",
+        "lovely app. very gentle and reassuring that much of what we think about is made up in our heads. I like that Wysa offers up ideas and solutions to help you navigate your way back to sanity!",
+        "dear developers, I really like this app. I have a lot of good things to say but there's only 500 symbol in the review but please, add the copy feature, sometimes I just want to save some messages or translate it (I'm not a native English speaker) this app is really amazing, this feature of copying text the only thing I want to see",
+        "This app has been very helpful in keeping me focused in the present moment as well as helpful with my CBT skills in between my therapy sessions. It's also a bonus that the app is accessible to those who are visually impaired through TalkBack."
+      ]
+    },
+    {
+      "group_id": "G5",
+      "theme": "Subscription, premium features, and pricing concerns",
+      "review_ids": [
+        62,
+        67,
+        74,
+        124,
+        194,
+        234,
+        243,
+        261,
+        320,
+        377,
+        379,
+        414,
+        473,
+        531,
+        549
+      ],
+      "example_reviews": [
+        "the subscription is very expensive and at the end of the day it's a paid therapist and as for the ai pet or something it basically mindfulness I would have paid for it maybe if it was was ai with a bit of intelligence and self care that wasnt overkill but I don't see nothing new that is being offered here I'm sure some intelligent pr team is gonna have very good comeback to this thou",
+        "doesn't really seem to be a fair price tbh, it's a extremely high sub cost with the classic free week to make you forget till you're charged. It's a predatory AI LLM bot that at best will charge money for a vurable person. truefully it's disgusting and rather dystopian.",
+        "how good for any deep talking. have to pay use the services",
+        "it's helped me through so much and dealing with issues when I can't talk to my therapist. I just wished there was more stuff for LGBT without needing to pay",
+        "it's just a subscription based app, Download if you wish to pay otherwise it's pointless"
+      ]
+    }
+  ]
+}

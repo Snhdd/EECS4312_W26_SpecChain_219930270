@@ -1,0 +1,224 @@
+{
+  "tests": [
+    {
+      "test_id": "T_auto_1",
+      "requirement_id": "FR1",
+      "scenario": "Primary validation for FR1",
+      "steps": [
+        "Open the relevant application feature",
+        "Trigger the functionality related to the requirement",
+        "Observe the system behavior"
+      ],
+      "expected_result": "The system satisfies the requirement: The system shall provide emotionally supportive responses to users experiencing anxiety, distress, or negative thoughts."
+    },
+    {
+      "test_id": "T_auto_2",
+      "requirement_id": "FR1",
+      "scenario": "Secondary validation for FR1",
+      "steps": [
+        "Access the same feature as a typical user",
+        "Repeat the interaction under normal usage conditions",
+        "Verify the output remains correct"
+      ],
+      "expected_result": "The feature continues to behave according to requirement FR1."
+    },
+    {
+      "test_id": "T_auto_3",
+      "requirement_id": "FR2",
+      "scenario": "Primary validation for FR2",
+      "steps": [
+        "Open the relevant application feature",
+        "Trigger the functionality related to the requirement",
+        "Observe the system behavior"
+      ],
+      "expected_result": "The system satisfies the requirement: The system shall provide guided CBT exercises to help users manage negative thought patterns."
+    },
+    {
+      "test_id": "T_auto_4",
+      "requirement_id": "FR2",
+      "scenario": "Secondary validation for FR2",
+      "steps": [
+        "Access the same feature as a typical user",
+        "Repeat the interaction under normal usage conditions",
+        "Verify the output remains correct"
+      ],
+      "expected_result": "The feature continues to behave according to requirement FR2."
+    },
+    {
+      "test_id": "T_auto_5",
+      "requirement_id": "FR3",
+      "scenario": "Primary validation for FR3",
+      "steps": [
+        "Open the relevant application feature",
+        "Trigger the functionality related to the requirement",
+        "Observe the system behavior"
+      ],
+      "expected_result": "The system satisfies the requirement: The system shall provide guided meditation and breathing exercises through the wellness tools interface."
+    },
+    {
+      "test_id": "T_auto_6",
+      "requirement_id": "FR3",
+      "scenario": "Secondary validation for FR3",
+      "steps": [
+        "Access the same feature as a typical user",
+        "Repeat the interaction under normal usage conditions",
+        "Verify the output remains correct"
+      ],
+      "expected_result": "The feature continues to behave according to requirement FR3."
+    },
+    {
+      "test_id": "T_auto_7",
+      "requirement_id": "FR4",
+      "scenario": "Primary validation for FR4",
+      "steps": [
+        "Open the relevant application feature",
+        "Trigger the functionality related to the requirement",
+        "Observe the system behavior"
+      ],
+      "expected_result": "The system satisfies the requirement: The system shall maintain relevant conversation context across user sessions."
+    },
+    {
+      "test_id": "T_auto_8",
+      "requirement_id": "FR4",
+      "scenario": "Secondary validation for FR4",
+      "steps": [
+        "Access the same feature as a typical user",
+        "Repeat the interaction under normal usage conditions",
+        "Verify the output remains correct"
+      ],
+      "expected_result": "The feature continues to behave according to requirement FR4."
+    },
+    {
+      "test_id": "T_auto_9",
+      "requirement_id": "FR5",
+      "scenario": "Primary validation for FR5",
+      "steps": [
+        "Open the relevant application feature",
+        "Trigger the functionality related to the requirement",
+        "Observe the system behavior"
+      ],
+      "expected_result": "The system satisfies the requirement: The system shall generate contextually relevant responses and reduce repetitive or generic replies."
+    },
+    {
+      "test_id": "T_auto_10",
+      "requirement_id": "FR5",
+      "scenario": "Secondary validation for FR5",
+      "steps": [
+        "Access the same feature as a typical user",
+        "Repeat the interaction under normal usage conditions",
+        "Verify the output remains correct"
+      ],
+      "expected_result": "The feature continues to behave according to requirement FR5."
+    },
+    {
+      "test_id": "T_auto_11",
+      "requirement_id": "FR6",
+      "scenario": "Primary validation for FR6",
+      "steps": [
+        "Open the relevant application feature",
+        "Trigger the functionality related to the requirement",
+        "Observe the system behavior"
+      ],
+      "expected_result": "The system satisfies the requirement: The system shall support multilingual interaction for supported non-English languages."
+    },
+    {
+      "test_id": "T_auto_12",
+      "requirement_id": "FR6",
+      "scenario": "Secondary validation for FR6",
+      "steps": [
+        "Access the same feature as a typical user",
+        "Repeat the interaction under normal usage conditions",
+        "Verify the output remains correct"
+      ],
+      "expected_result": "The feature continues to behave according to requirement FR6."
+    },
+    {
+      "test_id": "T_auto_13",
+      "requirement_id": "FR7",
+      "scenario": "Primary validation for FR7",
+      "steps": [
+        "Open the relevant application feature",
+        "Trigger the functionality related to the requirement",
+        "Observe the system behavior"
+      ],
+      "expected_result": "The system satisfies the requirement: The system shall support accessible navigation for users relying on assistive technologies."
+    },
+    {
+      "test_id": "T_auto_14",
+      "requirement_id": "FR7",
+      "scenario": "Secondary validation for FR7",
+      "steps": [
+        "Access the same feature as a typical user",
+        "Repeat the interaction under normal usage conditions",
+        "Verify the output remains correct"
+      ],
+      "expected_result": "The feature continues to behave according to requirement FR7."
+    },
+    {
+      "test_id": "T_auto_15",
+      "requirement_id": "FR8",
+      "scenario": "Primary validation for FR8",
+      "steps": [
+        "Open the relevant application feature",
+        "Trigger the functionality related to the requirement",
+        "Observe the system behavior"
+      ],
+      "expected_result": "The system satisfies the requirement: The system shall clearly display subscription plans, pricing, and premium feature differences."
+    },
+    {
+      "test_id": "T_auto_16",
+      "requirement_id": "FR8",
+      "scenario": "Secondary validation for FR8",
+      "steps": [
+        "Access the same feature as a typical user",
+        "Repeat the interaction under normal usage conditions",
+        "Verify the output remains correct"
+      ],
+      "expected_result": "The feature continues to behave according to requirement FR8."
+    },
+    {
+      "test_id": "T_auto_17",
+      "requirement_id": "FR9",
+      "scenario": "Primary validation for FR9",
+      "steps": [
+        "Open the relevant application feature",
+        "Trigger the functionality related to the requirement",
+        "Observe the system behavior"
+      ],
+      "expected_result": "The system satisfies the requirement: The system shall display free trial and billing information before premium activation."
+    },
+    {
+      "test_id": "T_auto_18",
+      "requirement_id": "FR9",
+      "scenario": "Secondary validation for FR9",
+      "steps": [
+        "Access the same feature as a typical user",
+        "Repeat the interaction under normal usage conditions",
+        "Verify the output remains correct"
+      ],
+      "expected_result": "The feature continues to behave according to requirement FR9."
+    },
+    {
+      "test_id": "T_auto_19",
+      "requirement_id": "FR10",
+      "scenario": "Primary validation for FR10",
+      "steps": [
+        "Open the relevant application feature",
+        "Trigger the functionality related to the requirement",
+        "Observe the system behavior"
+      ],
+      "expected_result": "The system satisfies the requirement: The system shall keep core emotional support features available to non-premium users."
+    },
+    {
+      "test_id": "T_auto_20",
+      "requirement_id": "FR10",
+      "scenario": "Secondary validation for FR10",
+      "steps": [
+        "Access the same feature as a typical user",
+        "Repeat the interaction under normal usage conditions",
+        "Verify the output remains correct"
+      ],
+      "expected_result": "The feature continues to behave according to requirement FR10."
+    }
+  ]
+}
