@@ -3,9 +3,8 @@
     {
       "group_id": "G1",
       "theme": "Emotional support, anxiety relief, and mental health recovery",
-      "review_ids": [2,3,9,10,12,16,18,20,44,47,50,51],
+      "review_ids": [2, 3, 9, 10, 12, 16, 18, 20, 44, 47, 50, 51],
       "example_reviews": [
-        
         "helpful app talk support",
         "kind supportive enlightening thank wysa xxx",
         "really helped turn negative thought positive mindset",
@@ -18,13 +17,12 @@
         "app great good substitute anyone talk good psychological tip emotion pretty great app",
         "good really liked mindful breathing relaxation tool helped helpful",
         "health conscious enjoy application like"
-
       ]
     },
     {
       "group_id": "G2",
       "theme": "CBT exercises, mindfulness tools, guided meditation, and self-improvement features",
-      "review_ids": [2,20,57,77,94,608,577,608,692,751,821],
+      "review_ids": [2, 20, 57, 77, 94, 608, 577, 608, 692, 751, 821],
       "example_reviews": [
         "helpful app talk support",
         "love utilizes cbt technique help break negative thought cycle relieve anxiety heavy emotion help reset actual video movement meditation thought prompt solution focused",
@@ -37,13 +35,12 @@
         "app gaslight let express proper manner even couple swear word become dismissive situation also mentally abuse people happen autism cbt therapy compatible autism treatment highly recommend app autism",
         "two thousand twenty four update app longer understands type sure changed longer find useful cbt process gone think difficult find response red flag move away relationship congratulated instead questioned",
         "excellent cbt resource"
-
       ]
     },
     {
       "group_id": "G3",
-      "theme":  "Chatbot intelligence, response relevance, personalization, and conversation memory",
-      "review_ids": [17,22,23,39,46,139,255,334,559,704],
+      "theme": "Chatbot intelligence, response relevance, personalization, and conversation memory",
+      "review_ids": [17, 22, 23, 39, 46, 139, 255, 334, 559, 704],
       "example_reviews": [
         "really good app would better remembers every conversation",
         "slow unoptimized response feel robotic relevant said",
@@ -55,31 +52,42 @@
         "provides basic scripted message regardless write listen respond intelligently give basic really slow message meant apply whatever say general assuming write expects absolute waste time least basic free version",
         "give completely irrelevant answer thought input",
         "absolutely adored app younger struggling love able come back whenever struggling two thousand twenty four update loved app use bot getting slow sense understand thing well anymore"
-
       ]
     },
     {
       "group_id": "G4",
-      "theme":  "Accessibility, multilingual support, and inclusive user experience needs",
-      "review_ids": [13,23,77,159,186,286,388,488,556,827],
+      "theme": "Accessibility, multilingual support, and inclusive user experience needs",
+      "review_ids": [13, 23, 77, 159, 186, 286, 388, 488, 556, 827],
       "example_reviews": [
         "easy use like way responds anything ask good sounding board free",
         "please update ai speak language besides english indonesian",
         "psyhelp al mindfulness support truly transformed way approach mental wellness app intuitive easy navigate offer wide range guided mindfulness exercise meditation help reduce stress improve focus love al powered support feel personalized like mindfulness coach available anytime need guidance encouragement daily prompt check in subtle effective keeping mindful grounded throughout",
         "critical review state app listen act trigger word one minute frustrated aggregated installed uninstalling",
-        "started using far good could use little development ai language model otherwise highly recommended tool meditation exercise quite helpful useful way journaling thought keeping track mood","great help chat english well sinhala random language",
+        "started using far good could use little development ai language model otherwise highly recommended tool meditation exercise quite helpful useful way journaling thought keeping track mood",
+        "great help chat english well sinhala random language",
         "free feature great helpful unlocking depth feature requires subscription easy work cute ai",
         "really positive app easy use",
         "impressed exercise simple helpful dialogue full glitch bug ai simply failing understand written apparently capable churning stock response much better apps option",
-        "app helpful keeping focused present moment well helpful cbt skill therapy session also bonus app accessible visually impaired talkback",
-
+        "app helpful keeping focused present moment well helpful cbt skill therapy session also bonus app accessible visually impaired talkback"
       ]
     },
     {
       "group_id": "G5",
       "theme": "Subscription, premium access, and pricing concerns",
-      "review_ids": [],
-      "example_reviews": []
+      "review_ids": [62, 194, 234, 243, 245, 254, 261, 375, 444, 581, 736],
+      "example_reviews": [
+        "subscription expensive end day paid therapist ai pet something basically mindfulness would paid maybe ai bit intelligence self care wasnt overkill see nothing new offered sure intelligent pr team gonna good comeback thou",
+        "subscription based app download wish pay otherwise pointless",
+        "charged eighty five canceled trial pleased quality app",
+        "started free trial got scammed gave info download",
+        "understand anything say direct short generic exercise work responds inappropriately rather talk chat gpt wall said wanted move new place want live anymore reason triggered start trying get create crisis plan worth money another greedy mental health app trying take money",
+        "awful last thing need app throw advert subscription every second screen load generic questionnaire go interminably go talk someone anyone even local eccentric scream abuse passing car feel less pointless engaging app",
+        "lifetime subscription access revoked",
+        "app potential however fully use app subscription required one exercise available without subscription app little aggressive promoting subscription well get notification selling subscription prominent advert home page well ai coach suggesting exercise access unless afford expensive subscription app limited use",
+        "reccomend app first stuck behind pay wall even worth free trial ai bot pretty much give scripted response whatever say bot alert system certain word mention one trigger word shift whatever talking building crisis plan great wanna describe crisis plan million time one conversation",
+        "incredibly helpful recommend anyone found problem except typing section show wrote scroll often check response though ai helpful less capable fixing typing grammar error accurately ai would greatly appreciate least service free payment method available everywhere everyone pay",
+        "gotta love free app immediately asks payment"
+      ]
     }
   ]
 }

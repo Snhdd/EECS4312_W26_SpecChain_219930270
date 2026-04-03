@@ -1,13 +1,11 @@
 {
   "dataset_size": 832,
-  "hybrid_group_count": 5,
-  "hybrid_persona_count": 5,
-  "hybrid_requirements_count": 5,
-  "hybrid_tests_count": 5,
+  "persona_count": 5,
+  "requirements_count": 5,
+  "tests_count": 5,
   "traceability_links": 10,
-  "review_coverage_ratio": 0.0601,
+  "review_coverage_ratio": 0.0865,
   "traceability_ratio": 1.0,
   "testability_rate": 1.0,
-  "refinement_quality_score": 1.0,
   "ambiguity_ratio": 0.0
 }
