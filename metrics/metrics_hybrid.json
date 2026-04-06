@@ -1,9 +1,9 @@
 {
   "dataset_size": 832,
   "persona_count": 5,
-  "requirements_count": 5,
-  "tests_count": 5,
-  "traceability_links": 10,
+  "requirements_count": 10,
+  "tests_count": 10,
+  "traceability_links": 15,
   "review_coverage_ratio": 0.0865,
   "traceability_ratio": 1.0,
   "testability_rate": 1.0,

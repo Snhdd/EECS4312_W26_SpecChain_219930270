@@ -3,54 +3,103 @@
     {
       "test_id": "HT1",
       "requirement_id": "HFR1",
-      "scenario": "Empathetic distress response",
+      "scenario": "Empathetic response to distress",
       "steps": [
-        "Open chat interface",
-        "Enter distress message",
-        "Submit prompt"
+        "Open the chat interface",
+        "Enter a distress message",
+        "Submit the message"
       ],
-      "expected_result": "Empathetic response returned within 2 seconds"
+      "expected_result": "The chatbot returns an empathetic supportive response within 2 seconds."
     },
     {
       "test_id": "HT2",
       "requirement_id": "HFR2",
-      "scenario": "Load CBT tool",
+      "scenario": "Safe response to negative emotional input",
       "steps": [
-        "Open wellness tools",
-        "Select CBT exercise"
+        "Open chat",
+        "Enter hopelessness message",
+        "Submit"
       ],
-      "expected_result": "Guided CBT tool loads successfully"
+      "expected_result": "The response does not worsen emotional distress."
     },
     {
       "test_id": "HT3",
       "requirement_id": "HFR3",
-      "scenario": "Conversation memory",
+      "scenario": "Guided CBT exercise display",
       "steps": [
-        "Start conversation",
-        "Return later",
-        "Ask follow-up question"
+        "Open wellness tools",
+        "Select CBT feature"
       ],
-      "expected_result": "Prior context is referenced"
+      "expected_result": "At least one guided CBT exercise is shown."
     },
     {
       "test_id": "HT4",
       "requirement_id": "HFR4",
-      "scenario": "Language accessibility",
+      "scenario": "Meditation exercise launch",
       "steps": [
-        "Switch language",
-        "Navigate main interface"
+        "Open breathing tools",
+        "Select meditation"
       ],
-      "expected_result": "Interface remains fully accessible"
+      "expected_result": "Meditation starts successfully."
     },
     {
       "test_id": "HT5",
       "requirement_id": "HFR5",
-      "scenario": "Subscription transparency",
+      "scenario": "Conversation memory",
       "steps": [
-        "Open premium page",
-        "View billing options"
+        "Start conversation",
+        "Close app",
+        "Reopen app",
+        "Continue same conversation"
       ],
-      "expected_result": "Pricing and billing information clearly displayed"
+      "expected_result": "Previous context is referenced."
+    },
+    {
+      "test_id": "HT6",
+      "requirement_id": "HFR6",
+      "scenario": "Relevant responses",
+      "steps": [
+        "Send two different prompts"
+      ],
+      "expected_result": "Responses are distinct and context-specific."
+    },
+    {
+      "test_id": "HT7",
+      "requirement_id": "HFR7",
+      "scenario": "Multilingual support",
+      "steps": [
+        "Change app language",
+        "Send message"
+      ],
+      "expected_result": "Labels and responses appear in selected language."
+    },
+    {
+      "test_id": "HT8",
+      "requirement_id": "HFR8",
+      "scenario": "Accessibility support",
+      "steps": [
+        "Enable screen reader",
+        "Navigate main interface"
+      ],
+      "expected_result": "All key features remain accessible."
+    },
+    {
+      "test_id": "HT9",
+      "requirement_id": "HFR9",
+      "scenario": "Subscription pricing visibility",
+      "steps": [
+        "Open premium page"
+      ],
+      "expected_result": "Pricing and features are clearly displayed."
+    },
+    {
+      "test_id": "HT10",
+      "requirement_id": "HFR10",
+      "scenario": "Billing transparency",
+      "steps": [
+        "Start free trial"
+      ],
+      "expected_result": "Billing date and cancellation info are visible."
     }
   ]
 }
