@@ -1,4 +1,63 @@
 {
+  "groups": [
+    {
+      "group_id": "G1",
+      "theme": "Effective Support and Help",
+      "review_ids": [
+        1, 4, 11, 14, 15, 20, 21, 23, 25, 30, 37, 40, 45, 46, 47, 50, 52, 53, 54, 58, 60, 62, 63, 65, 66, 70, 74, 75, 80, 82, 83, 84, 85, 87, 88, 90, 93, 95, 100, 102, 104, 106, 107, 108, 109, 111, 113, 116, 117, 118, 119
+      ],
+      "example_reviews": [
+        "fantastic app truly helpful supporting one work problem find solution",
+        "absolutely amazing stuff cbt tool super helpful dealing inner conflict",
+        "love wysa step invaluable helpful making commitment outlining day first thing morning"
+      ]
+    },
+    {
+      "group_id": "G2",
+      "theme": "Frustration and Disappointment",
+      "review_ids": [
+        9, 10, 12, 16, 19, 24, 27, 28, 29, 31, 32, 33, 35, 36, 38, 41, 42, 44, 48, 49, 51, 55, 59, 61, 67, 71, 72, 76, 77, 78, 79, 81, 86, 89, 94, 97, 98, 103, 105
+      ],
+      "example_reviews": [
+        "tried half hour would ask question disregard response repeatedly asking wanted try grounding technique",
+        "intake process service frustratingly rigid intrusive demand personal data",
+        "terrible text therapists"
+      ]
+    },
+    {
+      "group_id": "G3",
+      "theme": "Appreciation and Recommendation",
+      "review_id": [
+        2, 3, 5, 6, 7, 8, 13, 17, 18, 22, 26, 34, 39, 43, 56, 57, 68, 69, 73, 92, 96, 99, 101, 110, 112, 114, 115
+      ],
+      "example_reviews": [
+        "step by step gentle clear assistance",
+        "affective actually free unlike apps love",
+        "wish everyone tried app would truly wish everyone world"
+      ]
+    },
+    {
+      "group_id": "G4",
+      "theme": "Technical Issues and Suggestions",
+      "review_ids": [
+        64, 120
+      ],
+      "example_reviews": [
+        "slow unoptimized response feel robotic relevant said",
+        "please update ai speak language besides english indonesian"
+      ]
+    },
+    {
+      "group_id": "G5",
+      "theme": "Neutral and Mixed Experiences",
+      "review_ids": [
+        91
+      ],
+      "example_reviews": [
+        "rooted im need friend bro"
+      ]
+    }
+  ],
   "personas": [
     {
       "id": "P1",

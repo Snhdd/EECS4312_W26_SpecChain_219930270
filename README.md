@@ -1,33 +1,53 @@
 # EECS4312_W26_SpecChain
 
-## instructions:
-Please update to include: 
-- App name
-- Data collection method
-- Original dataset
-- Final cleaned dataset
-- Exact commands to run pipeline
+## Application Studied
+Application: **Wysa - Mental Health Support App**
 
-# example
-Application: [Calm]
+This project analyzes user reviews collected from the Google Play Store for the Wysa application.  
+The objective is to build and compare **manual**, **automated**, and **hybrid requirements engineering pipelines** for persona generation, requirement specification, test generation, and metric evaluation.
 
-Dataset:
-- reviews_raw.jsonl contains the collected reviews.
-- reviews_clean.jsonl contains the cleaned dataset.
-- The cleaned dataset contains 842 reviews.
+---
 
-Repository Structure:
-- data/ contains datasets and review groups
-- personas/ contains persona files
-- spec/ contains specifications
-- tests/ contains validation tests
-- metrics/ contains all metric files
-- src/ contains executable Python scripts
-- reflection/ contains the final reflection
+## Data Collection Method
+Reviews were collected from the **Google Play Store** using the `google-play-scraper` Python library.
 
-How to Run:
-1. python src/00_validate_repo.py
-2. python src/02_clean.py
-3. python src/run_all.py
-4. Open metrics/metrics_summary.json for comparison results
+Collection settings:
+- Language: English
+- Country: Canada
+- Sort order: Newest
+- Initial collection size: **1000 reviews**
 
+---
+
+## Dataset
+- `data/reviews_raw.jsonl` contains the originally collected raw reviews
+- `data/reviews_clean.jsonl` contains the cleaned dataset
+- Final cleaned dataset size: **832 reviews**
+
+Cleaning steps included:
+- duplicate removal
+- empty review removal
+- lowercase normalization
+- punctuation and URL removal
+- stopword removal
+- lemmatization
+
+---
+
+## Repository Structure
+- `data/` → datasets, raw reviews, cleaned reviews, review groups
+- `personas/` → manual, automated, and hybrid persona files
+- `spec/` → generated requirements specifications
+- `tests/` → generated test cases
+- `metrics/` → pipeline metrics and comparison summary
+- `prompts/` → Groq prompt records
+- `reflection/` → final reflection document
+- `src/` → executable Python scripts
+- `README.md` → project documentation
+
+---
+
+## How to Run
+### Validate repository
+```bash
+python3.11 src/00_validate_repo.py
