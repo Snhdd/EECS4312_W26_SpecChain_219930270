@@ -2,150 +2,117 @@
   "personas": [
     {
       "id": "P1",
-      "name": "Emotionally Distressed Support User",
-      "description": "A user seeking immediate emotional support, anxiety relief, and reassurance through the app.",
+      "name": "Hopeful Helper",
+      "description": "Seeking effective mental health support and tools",
       "derived_from_group": "G1",
       "goals": [
-        "Receive emotional support",
-        "Reduce anxiety",
-        "Feel heard without judgment"
+        "Find a reliable and helpful mental health app",
+        "Learn effective coping strategies and techniques"
       ],
       "pain_points": [
-        "Emotional distress",
-        "Anxiety and depression",
-        "Need for supportive responses"
+        "Struggling with negative thoughts and emotions",
+        "Difficulty finding time for in-person therapy"
       ],
-      "context": [
-        "Uses the app during stressful or emotionally difficult moments"
-      ],
+      "context": "High school student dealing with stress and anxiety",
       "constraints": [
-        "Responses must be empathetic",
-        "Support must be available quickly"
+        "Limited budget for mental health services",
+        "Prefers convenient and accessible support"
       ],
       "evidence_reviews": [
-        1,
-        2,
-        3,
-        4,
-        5
+        "fantastic app truly helpful supporting one work problem find solution",
+        "absolutely amazing stuff cbt tool super helpful dealing inner conflict used app five min far felt immediate impact highly encourage others try"
       ]
     },
     {
       "id": "P2",
-      "name": "Guided Self-Help User",
-      "description": "A user who wants structured wellness support through CBT, meditation, and mindfulness tools.",
+      "name": "Frustrated User",
+      "description": "Experiencing technical issues and frustrations with the app",
       "derived_from_group": "G2",
       "goals": [
-        "Use CBT tools",
-        "Practice mindfulness",
-        "Improve coping habits"
+        "Resolve technical issues and improve app performance",
+        "Find a more user-friendly and effective mental health app"
       ],
       "pain_points": [
-        "Needs guided exercises",
-        "Needs clear wellness tools"
+        "Dealing with app crashes and unresponsive features",
+        "Feeling frustrated with repetitive and canned responses"
       ],
-      "context": [
-        "Uses the app regularly for self-improvement"
-      ],
+      "context": "Young adult with a busy schedule and high stress levels",
       "constraints": [
-        "Exercises must be easy to access",
-        "Instructions must be clear"
+        "Limited time to devote to mental health support",
+        "Prefers a more personalized and engaging experience"
       ],
       "evidence_reviews": [
-        16,
-        17,
-        18,
-        19,
-        20
+        "tried half hour would ask question disregard response repeatedly asking wanted try grounding technique get blown enough living need ignored app lol actually expecting much wanted give try curiosity know",
+        "slow unoptimized response feel robotic relevant said"
       ]
     },
     {
       "id": "P3",
-      "name": "Personalized Conversation User",
-      "description": "A user expecting relevant and personalized AI conversations with memory across sessions.",
+      "name": "Value-Conscious User",
+      "description": "Concerns about cost and subscription models",
       "derived_from_group": "G3",
       "goals": [
-        "Receive relevant responses",
-        "Continue conversations over time",
-        "Feel understood"
+        "Find an affordable and cost-effective mental health solution",
+        "Evaluate the value of paid features and subscriptions"
       ],
       "pain_points": [
-        "Repetitive replies",
-        "Missing memory",
-        "Irrelevant responses"
+        "Concerns about the cost of subscription-based models",
+        "Difficulty justifying the expense of a mental health app"
       ],
-      "context": [
-        "Uses chatbot interactions repeatedly over time"
-      ],
+      "context": "Working professional with a limited budget for mental health services",
       "constraints": [
-        "Responses must be context-aware",
-        "Conversation memory must persist"
+        "Needs to balance cost with effectiveness and value",
+        "Prefers transparent and flexible pricing models"
       ],
       "evidence_reviews": [
-        31,
-        32,
-        33,
-        34,
-        35
+        "affective actually free unlike apps love",
+        "subscription expensive end day paid therapist ai pet something basically mindfulness would paid maybe ai bit intelligence self care wasnt overkill see nothing new offered sure intelligent pr team gonna good comeback thou"
       ]
     },
     {
       "id": "P4",
-      "name": "Inclusive Access User",
-      "description": "A user who needs inclusive design, language support, and accessible navigation.",
+      "name": "Appreciative Advocate",
+      "description": "Seeking support and encouragement for mental health",
       "derived_from_group": "G4",
       "goals": [
-        "Use app in preferred language",
-        "Access features easily",
-        "Benefit from inclusive design"
+        "Find a supportive and encouraging mental health community",
+        "Share positive experiences and recommendations with others"
       ],
       "pain_points": [
-        "Language barriers",
-        "Accessibility limitations"
+        "Struggling to find supportive and non-judgmental spaces",
+        "Difficulty articulating emotions and needs"
       ],
-      "context": [
-        "May use assistive tools or prefer non-English interaction"
-      ],
+      "context": "Individual seeking support for mental health and wellness",
       "constraints": [
-        "Interface must support accessibility",
-        "Language options should be inclusive"
+        "Prefers a supportive and non-judgmental environment",
+        "Values encouragement and positivity in mental health support"
       ],
       "evidence_reviews": [
-        46,
-        47,
-        48,
-        49,
-        50
+        "wish everyone tried app would truly wish everyone world would even one day would without doubt something would make anyone feel better felt thank creating app hopefully reach many anyone could hope thank time passion helped today hope many others reach unexpectedly manifesting real please try smile",
+        "helpful app talk support"
       ]
     },
     {
       "id": "P5",
-      "name": "Price-Aware Premium Evaluator",
-      "description": "A user evaluating whether premium plans provide enough value for the subscription cost.",
+      "name": "Critical Evaluator",
+      "description": "Evaluating the app's effectiveness and limitations",
       "derived_from_group": "G5",
       "goals": [
-        "Understand subscription value",
-        "Avoid surprise charges",
-        "Compare free and premium features"
+        "Assess the app's strengths and weaknesses",
+        "Consider alternative mental health solutions"
       ],
       "pain_points": [
-        "High cost",
-        "Feature paywalls",
-        "Billing confusion"
+        "Mixed experiences with the app's effectiveness",
+        "Difficulty evaluating the app's value and limitations"
       ],
-      "context": [
-        "Deciding whether premium access is worth purchasing"
-      ],
+      "context": "Mental health professional evaluating digital solutions",
       "constraints": [
-        "Pricing must be transparent",
-        "Paid features must justify cost"
+        "Needs to balance effectiveness with limitations and potential biases",
+        "Prefers evidence-based and transparent approaches to mental health support"
       ],
       "evidence_reviews": [
-        61,
-        62,
-        63,
-        64,
-        65
+        "really good app would better remembers every conversation",
+        "forgets discussion invested time answering question took time think bit ready answer question ai forgot discussion started scratch reading phrase understand written ai ludicrous update starting understand purpose app serf simpler purpose ack emotion meaningful break listening self etc wish used stronger llm help"
       ]
     }
   ]

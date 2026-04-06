@@ -4,57 +4,60 @@
       "group_id": "G1",
       "theme": "Effective Support and Help",
       "review_ids": [
-        1, 4, 11, 14, 15, 20, 21, 23, 25, 30, 37, 40, 45, 46, 47, 50, 52, 53, 54, 58, 60, 62, 63, 65, 66, 70, 74, 75, 80, 82, 83, 84, 85, 87, 88, 90, 93, 95, 100, 102, 104, 106, 107, 108, 109, 111, 113, 116, 117, 118, 119
+        1, 2, 4, 11, 14, 15, 20, 21, 23, 25, 30, 37, 40, 45, 46, 50, 52, 53, 54, 58, 60, 62, 63, 65, 66, 70, 74, 75, 80, 82, 83, 84, 85, 87, 88, 90, 93, 95, 96, 100, 102, 104, 106, 107, 108, 109, 111, 112, 113, 116, 117, 118, 119
       ],
       "example_reviews": [
         "fantastic app truly helpful supporting one work problem find solution",
-        "absolutely amazing stuff cbt tool super helpful dealing inner conflict",
-        "love wysa step invaluable helpful making commitment outlining day first thing morning"
+        "step by step gentle clear assistance",
+        "absolutely amazing stuff cbt tool super helpful dealing inner conflict used app five min far felt immediate impact highly encourage others try"
       ]
     },
     {
       "group_id": "G2",
-      "theme": "Frustration and Disappointment",
+      "theme": "Technical Issues and Frustrations",
       "review_ids": [
-        9, 10, 12, 16, 19, 24, 27, 28, 29, 31, 32, 33, 35, 36, 38, 41, 42, 44, 48, 49, 51, 55, 59, 61, 67, 71, 72, 76, 77, 78, 79, 81, 86, 89, 94, 97, 98, 103, 105
+        9, 10, 16, 19, 24, 27, 28, 29, 32, 33, 35, 36, 38, 41, 42, 44, 48, 49, 51, 55, 56, 59, 61, 67, 71, 72, 76, 77, 78, 79, 81, 86, 89, 94, 97, 98, 103, 105
       ],
       "example_reviews": [
-        "tried half hour would ask question disregard response repeatedly asking wanted try grounding technique",
-        "intake process service frustratingly rigid intrusive demand personal data",
-        "terrible text therapists"
+        "tried half hour would ask question disregard response repeatedly asking wanted try grounding technique get blown enough living need ignored app lol actually expecting much wanted give try curiosity know",
+        "intake process service frustratingly rigid intrusive demand personal data nothing clinical care forced select list confusing label could even access help exit app option decline unnecessary question goal mental health support stop creating barrier based personal belief major hurdle want straightforward medical assistance",
+        "slow unoptimized response feel robotic relevant said"
       ]
     },
     {
       "group_id": "G3",
-      "theme": "Appreciation and Recommendation",
-      "review_id": [
-        2, 3, 5, 6, 7, 8, 13, 17, 18, 22, 26, 34, 39, 43, 56, 57, 68, 69, 73, 92, 96, 99, 101, 110, 112, 114, 115
+      "theme": "Cost and Subscription Concerns",
+      "review_ids": [
+        3, 17, 64, 69, 73, 92, 99, 101
       ],
       "example_reviews": [
-        "step by step gentle clear assistance",
         "affective actually free unlike apps love",
-        "wish everyone tried app would truly wish everyone world"
+        "install app searching something free paid",
+        "subscription expensive end day paid therapist ai pet something basically mindfulness would paid maybe ai bit intelligence self care wasnt overkill see nothing new offered sure intelligent pr team gonna good comeback thou"
       ]
     },
     {
       "group_id": "G4",
-      "theme": "Technical Issues and Suggestions",
+      "theme": "Appreciation and Encouragement",
       "review_ids": [
-        64, 120
+        5, 6, 7, 8, 12, 13, 18, 26, 31, 34, 39, 43, 47, 57, 68, 91, 110
       ],
       "example_reviews": [
-        "slow unoptimized response feel robotic relevant said",
-        "please update ai speak language besides english indonesian"
+        "helpful sad nu",
+        "wish everyone tried app would truly wish everyone world would even one day would without doubt something would make anyone feel better felt thank creating app hopefully reach many anyone could hope thank time passion helped today hope many others reach unexpectedly manifesting real please try smile",
+        "helpful app talk support"
       ]
     },
     {
       "group_id": "G5",
       "theme": "Neutral and Mixed Experiences",
       "review_ids": [
-        91
+        22, 65, 120
       ],
       "example_reviews": [
-        "rooted im need friend bro"
+        "really good app would better remembers every conversation",
+        "help much helped overthinking helped make thought positive struggling plssssss download",
+        "forgets discussion invested time answering question took time think bit ready answer question ai forgot discussion started scratch reading phrase understand written ai ludicrous update starting understand purpose app serf simpler purpose ack emotion meaningful break listening self etc wish used stronger llm help"
       ]
     }
   ],
@@ -62,115 +65,116 @@
     {
       "id": "P1",
       "name": "Hopeful Helper",
-      "description": "Seeking effective support for mental health struggles",
+      "description": "Seeking effective mental health support and tools",
       "derived_from_group": "G1",
       "goals": [
-        "Find a reliable and helpful mental health support tool",
-        "Improve mental well-being and manage stress"
+        "Find a reliable and helpful mental health app",
+        "Learn effective coping strategies and techniques"
       ],
       "pain_points": [
-        "Difficulty finding trustworthy mental health resources",
-        "Struggling with stress and negative thoughts"
+        "Struggling with negative thoughts and emotions",
+        "Difficulty finding time for in-person therapy"
       ],
-      "context": "Actively seeking mental health support and willing to try new tools",
+      "context": "High school student dealing with stress and anxiety",
       "constraints": [
         "Limited budget for mental health services",
-        "Seeking convenient and accessible support"
+        "Prefers convenient and accessible support"
       ],
       "evidence_reviews": [
         "fantastic app truly helpful supporting one work problem find solution",
-        "absolutely amazing stuff cbt tool super helpful dealing inner conflict"
+        "absolutely amazing stuff cbt tool super helpful dealing inner conflict used app five min far felt immediate impact highly encourage others try"
       ]
     },
     {
       "id": "P2",
       "name": "Frustrated User",
-      "description": "Experiencing frustration and disappointment with mental health apps",
+      "description": "Experiencing technical issues and frustrations with the app",
       "derived_from_group": "G2",
       "goals": [
-        "Find a mental health app that truly understands and supports their needs",
-        "Improve mental well-being and manage stress"
+        "Resolve technical issues and improve app performance",
+        "Find a more user-friendly and effective mental health app"
       ],
       "pain_points": [
-        "Frustrated with ineffective or unhelpful mental health resources",
-        "Difficulty finding a supportive and understanding community"
+        "Dealing with app crashes and unresponsive features",
+        "Feeling frustrated with repetitive and canned responses"
       ],
-      "context": "Seeking mental health support but experiencing frustration with current resources",
+      "context": "Young adult with a busy schedule and high stress levels",
       "constraints": [
-        "Limited patience for ineffective or unhelpful resources",
-        "Seeking a supportive and understanding community"
+        "Limited time to devote to mental health support",
+        "Prefers a more personalized and engaging experience"
       ],
       "evidence_reviews": [
-        "tried half hour would ask question disregard response repeatedly asking wanted try grounding technique",
-        "intake process service frustratingly rigid intrusive demand personal data"
+        "tried half hour would ask question disregard response repeatedly asking wanted try grounding technique get blown enough living need ignored app lol actually expecting much wanted give try curiosity know",
+        "slow unoptimized response feel robotic relevant said"
       ]
     },
     {
       "id": "P3",
-      "name": "Appreciative Advocate",
-      "description": "Appreciative of helpful mental health resources and willing to recommend",
+      "name": "Value-Conscious User",
+      "description": "Concerns about cost and subscription models",
       "derived_from_group": "G3",
       "goals": [
-        "Share helpful mental health resources with others",
-        "Improve mental well-being and manage stress"
+        "Find an affordable and cost-effective mental health solution",
+        "Evaluate the value of paid features and subscriptions"
       ],
       "pain_points": [
-        "Difficulty finding trustworthy mental health resources to share with others",
-        "Seeking to help others improve their mental well-being"
+        "Concerns about the cost of subscription-based models",
+        "Difficulty justifying the expense of a mental health app"
       ],
-      "context": "Actively seeking to help others improve their mental well-being",
+      "context": "Working professional with a limited budget for mental health services",
       "constraints": [
-        "Limited time to research and share mental health resources",
-        "Seeking to make a positive impact on others' mental health"
+        "Needs to balance cost with effectiveness and value",
+        "Prefers transparent and flexible pricing models"
       ],
       "evidence_reviews": [
-        "wish everyone tried app would truly wish everyone world",
-        "affective actually free unlike apps love"
+        "affective actually free unlike apps love",
+        "subscription expensive end day paid therapist ai pet something basically mindfulness would paid maybe ai bit intelligence self care wasnt overkill see nothing new offered sure intelligent pr team gonna good comeback thou"
       ]
     },
     {
       "id": "P4",
-      "name": "Tech-Savvy User",
-      "description": "Experiencing technical issues and suggesting improvements for mental health apps",
+      "name": "Appreciative Advocate",
+      "description": "Seeking support and encouragement for mental health",
       "derived_from_group": "G4",
       "goals": [
-        "Improve the technical functionality of mental health apps",
-        "Enhance the user experience of mental health resources"
+        "Find a supportive and encouraging mental health community",
+        "Share positive experiences and recommendations with others"
       ],
       "pain_points": [
-        "Experiencing technical issues with mental health apps",
-        "Seeking to improve the user experience of mental health resources"
+        "Struggling to find supportive and non-judgmental spaces",
+        "Difficulty articulating emotions and needs"
       ],
-      "context": "Actively using and providing feedback on mental health apps",
+      "context": "Individual seeking support for mental health and wellness",
       "constraints": [
-        "Limited technical expertise to resolve issues",
-        "Seeking to improve the technical functionality of mental health apps"
+        "Prefers a supportive and non-judgmental environment",
+        "Values encouragement and positivity in mental health support"
       ],
       "evidence_reviews": [
-        "slow unoptimized response feel robotic relevant said",
-        "please update ai speak language besides english indonesian"
+        "wish everyone tried app would truly wish everyone world would even one day would without doubt something would make anyone feel better felt thank creating app hopefully reach many anyone could hope thank time passion helped today hope many others reach unexpectedly manifesting real please try smile",
+        "helpful app talk support"
       ]
     },
     {
       "id": "P5",
-      "name": "Neutral Navigator",
-      "description": "Having a neutral or mixed experience with mental health resources",
+      "name": "Critical Evaluator",
+      "description": "Evaluating the app's effectiveness and limitations",
       "derived_from_group": "G5",
       "goals": [
-        "Find a mental health resource that meets their needs",
-        "Improve mental well-being and manage stress"
+        "Assess the app's strengths and weaknesses",
+        "Consider alternative mental health solutions"
       ],
       "pain_points": [
-        "Uncertain about the effectiveness of mental health resources",
-        "Seeking to improve mental well-being and manage stress"
+        "Mixed experiences with the app's effectiveness",
+        "Difficulty evaluating the app's value and limitations"
       ],
-      "context": "Seeking mental health support but uncertain about resources",
+      "context": "Mental health professional evaluating digital solutions",
       "constraints": [
-        "Limited knowledge about mental health resources",
-        "Seeking a supportive and understanding community"
+        "Needs to balance effectiveness with limitations and potential biases",
+        "Prefers evidence-based and transparent approaches to mental health support"
       ],
       "evidence_reviews": [
-        "rooted im need friend bro"
+        "really good app would better remembers every conversation",
+        "forgets discussion invested time answering question took time think bit ready answer question ai forgot discussion started scratch reading phrase understand written ai ludicrous update starting understand purpose app serf simpler purpose ack emotion meaningful break listening self etc wish used stronger llm help"
       ]
     }
   ]

@@ -86,7 +86,7 @@ def call_groq(prompt):
             {
                 "role": "system",
                 "content": (
-                    "Return ONLY valid JSON. "
+                    "Return ONLY STRICT valid JSON. No markdown, no explanations, no trailing commas, no comments."
                     "No explanations, no markdown fences, no extra text. "
                     "The JSON must parse with Python json.loads()."
                 )
