@@ -1,13 +1,4 @@
-"""
-04_personas_manual.py
 
-Template/reference script for manual persona generation.
-
-Purpose:
-- support manual persona construction from review groups
-- preserve traceability to grouped review evidence
-- provide reusable persona structure for Task 4
-"""
 
 
 def get_persona_template():

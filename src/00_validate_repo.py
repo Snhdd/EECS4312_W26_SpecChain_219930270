@@ -1,8 +1,4 @@
-"""
-00_validate_repo.py
 
-Checks whether the required repository structure and files exist.
-"""
 
 from pathlib import Path
 

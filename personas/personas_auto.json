@@ -2,116 +2,150 @@
   "personas": [
     {
       "id": "P1",
-      "name": "Hopeful Helper",
-      "description": "Seeking effective support for mental health struggles",
+      "name": "Emotionally Distressed Support User",
+      "description": "A user seeking immediate emotional support, anxiety relief, and reassurance through the app.",
       "derived_from_group": "G1",
       "goals": [
-        "Find a reliable and helpful mental health support tool",
-        "Improve mental well-being and manage stress"
+        "Receive emotional support",
+        "Reduce anxiety",
+        "Feel heard without judgment"
       ],
       "pain_points": [
-        "Difficulty finding trustworthy mental health resources",
-        "Struggling with stress and negative thoughts"
+        "Emotional distress",
+        "Anxiety and depression",
+        "Need for supportive responses"
       ],
-      "context": "Actively seeking mental health support and willing to try new tools",
+      "context": [
+        "Uses the app during stressful or emotionally difficult moments"
+      ],
       "constraints": [
-        "Limited budget for mental health services",
-        "Seeking convenient and accessible support"
+        "Responses must be empathetic",
+        "Support must be available quickly"
       ],
       "evidence_reviews": [
-        "fantastic app truly helpful supporting one work problem find solution",
-        "absolutely amazing stuff cbt tool super helpful dealing inner conflict"
+        1,
+        2,
+        3,
+        4,
+        5
       ]
     },
     {
       "id": "P2",
-      "name": "Frustrated User",
-      "description": "Experiencing frustration and disappointment with mental health apps",
+      "name": "Guided Self-Help User",
+      "description": "A user who wants structured wellness support through CBT, meditation, and mindfulness tools.",
       "derived_from_group": "G2",
       "goals": [
-        "Find a mental health app that truly understands and supports their needs",
-        "Improve mental well-being and manage stress"
+        "Use CBT tools",
+        "Practice mindfulness",
+        "Improve coping habits"
       ],
       "pain_points": [
-        "Frustrated with ineffective or unhelpful mental health resources",
-        "Difficulty finding a supportive and understanding community"
+        "Needs guided exercises",
+        "Needs clear wellness tools"
       ],
-      "context": "Seeking mental health support but experiencing frustration with current resources",
+      "context": [
+        "Uses the app regularly for self-improvement"
+      ],
       "constraints": [
-        "Limited patience for ineffective or unhelpful resources",
-        "Seeking a supportive and understanding community"
+        "Exercises must be easy to access",
+        "Instructions must be clear"
       ],
       "evidence_reviews": [
-        "tried half hour would ask question disregard response repeatedly asking wanted try grounding technique",
-        "intake process service frustratingly rigid intrusive demand personal data"
+        16,
+        17,
+        18,
+        19,
+        20
       ]
     },
     {
       "id": "P3",
-      "name": "Appreciative Advocate",
-      "description": "Appreciative of helpful mental health resources and willing to recommend",
+      "name": "Personalized Conversation User",
+      "description": "A user expecting relevant and personalized AI conversations with memory across sessions.",
       "derived_from_group": "G3",
       "goals": [
-        "Share helpful mental health resources with others",
-        "Improve mental well-being and manage stress"
+        "Receive relevant responses",
+        "Continue conversations over time",
+        "Feel understood"
       ],
       "pain_points": [
-        "Difficulty finding trustworthy mental health resources to share with others",
-        "Seeking to help others improve their mental well-being"
+        "Repetitive replies",
+        "Missing memory",
+        "Irrelevant responses"
       ],
-      "context": "Actively seeking to help others improve their mental well-being",
+      "context": [
+        "Uses chatbot interactions repeatedly over time"
+      ],
       "constraints": [
-        "Limited time to research and share mental health resources",
-        "Seeking to make a positive impact on others' mental health"
+        "Responses must be context-aware",
+        "Conversation memory must persist"
       ],
       "evidence_reviews": [
-        "wish everyone tried app would truly wish everyone world",
-        "affective actually free unlike apps love"
+        31,
+        32,
+        33,
+        34,
+        35
       ]
     },
     {
       "id": "P4",
-      "name": "Tech-Savvy User",
-      "description": "Experiencing technical issues and suggesting improvements for mental health apps",
+      "name": "Inclusive Access User",
+      "description": "A user who needs inclusive design, language support, and accessible navigation.",
       "derived_from_group": "G4",
       "goals": [
-        "Improve the technical functionality of mental health apps",
-        "Enhance the user experience of mental health resources"
+        "Use app in preferred language",
+        "Access features easily",
+        "Benefit from inclusive design"
       ],
       "pain_points": [
-        "Experiencing technical issues with mental health apps",
-        "Seeking to improve the user experience of mental health resources"
+        "Language barriers",
+        "Accessibility limitations"
       ],
-      "context": "Actively using and providing feedback on mental health apps",
+      "context": [
+        "May use assistive tools or prefer non-English interaction"
+      ],
       "constraints": [
-        "Limited technical expertise to resolve issues",
-        "Seeking to improve the technical functionality of mental health apps"
+        "Interface must support accessibility",
+        "Language options should be inclusive"
       ],
       "evidence_reviews": [
-        "slow unoptimized response feel robotic relevant said",
-        "please update ai speak language besides english indonesian"
+        46,
+        47,
+        48,
+        49,
+        50
       ]
     },
     {
       "id": "P5",
-      "name": "Neutral Navigator",
-      "description": "Having a neutral or mixed experience with mental health resources",
+      "name": "Price-Aware Premium Evaluator",
+      "description": "A user evaluating whether premium plans provide enough value for the subscription cost.",
       "derived_from_group": "G5",
       "goals": [
-        "Find a mental health resource that meets their needs",
-        "Improve mental well-being and manage stress"
+        "Understand subscription value",
+        "Avoid surprise charges",
+        "Compare free and premium features"
       ],
       "pain_points": [
-        "Uncertain about the effectiveness of mental health resources",
-        "Seeking to improve mental well-being and manage stress"
+        "High cost",
+        "Feature paywalls",
+        "Billing confusion"
       ],
-      "context": "Seeking mental health support but uncertain about resources",
+      "context": [
+        "Deciding whether premium access is worth purchasing"
+      ],
       "constraints": [
-        "Limited knowledge about mental health resources",
-        "Seeking a supportive and understanding community"
+        "Pricing must be transparent",
+        "Paid features must justify cost"
       ],
       "evidence_reviews": [
-        "rooted im need friend bro"
+        61,
+        62,
+        63,
+        64,
+        65
       ]
     }
   ]

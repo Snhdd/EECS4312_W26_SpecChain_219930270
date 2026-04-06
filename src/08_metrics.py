@@ -1,14 +1,4 @@
-"""
-08_metrics.py
 
-Computes and compares metrics across the manual, automated, and hybrid pipelines.
-
-Outputs:
-- metrics/metrics_manual.json
-- metrics/metrics_auto.json
-- metrics/metrics_hybrid.json
-- metrics/metrics_summary.json
-"""
 
 import json
 from pathlib import Path

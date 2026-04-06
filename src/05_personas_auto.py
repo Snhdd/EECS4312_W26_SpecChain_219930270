@@ -1,14 +1,4 @@
-"""
-05_personas_auto.py
 
-Automated review grouping and persona generation using Groq API
-with meta-llama/llama-4-scout-17b-16e-instruct.
-
-Outputs:
-- data/review_groups_auto.json
-- personas/personas_auto.json
-- prompts/prompt_auto.json
-"""
 
 import json
 import os

@@ -1,10 +1,10 @@
 {
-  "dataset_size": 832,
+  "dataset_size": 831,
   "persona_count": 5,
   "requirements_count": 10,
   "tests_count": 10,
   "traceability_links": 15,
-  "review_coverage_ratio": 0.0865,
+  "review_coverage_ratio": 0.0866,
   "traceability_ratio": 1.0,
   "testability_rate": 1.0,
   "ambiguity_ratio": 0.0
