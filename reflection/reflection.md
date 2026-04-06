@@ -1,4 +1,4 @@
-# Application: [Calm] 
+# Application:  
 
 # Final Reflection
 
